@@ -1,0 +1,49 @@
+body 
+{
+  background-image: url(img/imagen\ \(3\).jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   width: 90%;
+   height: 90%;
+   color: white; 
+   padding-top: 10%;
+  
+}
+h1{
+    font-size: 80px;
+    color: rgb(8, 8, 8);
+}
+a{
+  color: rgb(2, 2, 2);
+  font-size: 25px;
+  font-family: 'Times New Roman', Times, serif;
+  top: 20px;
+}
+label{
+  font-size: 25px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: black;
+}
+
+input{
+  font-size: 20px;
+border-radius: 10px;
+width: 35%;
+gap:5%;
+}
+form 
+{
+  width: 500px;
+  margin: auto;
+  border-radius: 1em;
+  background-color: white;
+  opacity: .8;
+  padding: 25px;
+  margin-top: 20px; 
+  color: white;
+  border: 1px solid black;
+}
+
+
+
+
